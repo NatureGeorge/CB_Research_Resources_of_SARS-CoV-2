@@ -1,0 +1,2 @@
+UniProt	chain_id	end	entity_id	identifier	identity	is_canonical	name	pdb_end	pdb_id	pdb_start	start	struct_asym_id	unp_end	unp_start
+A0A2R3SV02	A	"{""author_residue_number"":306,""author_insertion_code"":"""",""residue_number"":306}"	1	A0A2R3SV02_CVHSA	0.99	True	A0A2R3SV02_CVHSA	306	6lu7	1	"{""author_residue_number"":1,""author_insertion_code"":"""",""residue_number"":1}"	A	3565	3260

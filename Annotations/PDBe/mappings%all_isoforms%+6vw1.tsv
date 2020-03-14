@@ -1,0 +1,5 @@
+UniProt	chain_id	end	entity_id	identifier	identity	is_canonical	name	pdb_end	pdb_id	pdb_start	start	struct_asym_id	unp_end	unp_start
+Q9BYF1-2	A	"{""author_residue_number"":555,""author_insertion_code"":"""",""residue_number"":537}"	1	ACE2_HUMAN	0.998	False	ACE2_HUMAN	537	6vw1	1	"{""author_residue_number"":19,""author_insertion_code"":"""",""residue_number"":1}"	A	555	19
+Q9BYF1-2	B	"{""author_residue_number"":555,""author_insertion_code"":"""",""residue_number"":537}"	1	ACE2_HUMAN	0.998	False	ACE2_HUMAN	537	6vw1	1	"{""author_residue_number"":19,""author_insertion_code"":"""",""residue_number"":1}"	B	555	19
+Q9BYF1	A	"{""author_residue_number"":null,""author_insertion_code"":"""",""residue_number"":597}"	1	ACE2_HUMAN	1	True	ACE2_HUMAN	597	6vw1	1	"{""author_residue_number"":19,""author_insertion_code"":"""",""residue_number"":1}"	A	615	19
+Q9BYF1	B	"{""author_residue_number"":null,""author_insertion_code"":"""",""residue_number"":597}"	1	ACE2_HUMAN	1	True	ACE2_HUMAN	597	6vw1	1	"{""author_residue_number"":19,""author_insertion_code"":"""",""residue_number"":1}"	B	615	19
