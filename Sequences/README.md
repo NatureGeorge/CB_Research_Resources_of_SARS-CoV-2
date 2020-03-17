@@ -35,7 +35,7 @@ This page is a summary of 'raw' data resources:
 
 ![Reference Genome View](../docs/figs/RefGenomeView.png)
 
-From the view we can find that there are currently 15 proteins (brown bar) defined.
+From the view we can find that there are currently 28 proteins defined.
 
 #### NCBI Virus resource
 

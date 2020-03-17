@@ -41,3 +41,5 @@ All the data collected in this repository are provided by following databank/web
 * <https://www.gisaid.org/epiflu-applications/global-cases-covid-19/>
 * <https://ssgcid.org/sars-cov-2/>
 * <https://www.viprbrc.org/brc/home.spg?decorator=corona_ncov>
+* Prototype Neo4j Knowledge Graph for Coronavirus outbreaks: <https://github.com/sbl-sdsc/coronavirus-knowledge-graph>
+* Folding@home COVID-19 efforts: <https://github.com/FoldingAtHome/coronavirus>
