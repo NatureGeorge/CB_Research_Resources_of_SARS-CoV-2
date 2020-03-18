@@ -23,7 +23,7 @@ COVID-19是近期爆发的国际卫生危机，各路科研机构都有迅速开
     </tr>
     <tr>
         <td>
-        <img %%%https://media.springernature.com/relative-r300-703_m1050/springer-static/image/art%3A10.1038%2Fs41564-020-0695-z/MediaObjects/41564_2020_695_Figa_HTML.png?as=webp">
+        <img src="https://media.springernature.com/relative-r300-703_m1050/springer-static/image/art%3A10.1038%2Fs41564-020-0695-z/MediaObjects/41564_2020_695_Figa_HTML.png?as=webp">
         </td>
     </tr>
 </table>
@@ -60,7 +60,7 @@ COVID-19是近期爆发的国际卫生危机，各路科研机构都有迅速开
     </tr>
     <tr>
         <td>
-        <img %%%https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41564-020-0695-z/MediaObjects/41564_2020_695_Fig1_HTML.png?as=webp">
+        <img src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41564-020-0695-z/MediaObjects/41564_2020_695_Fig1_HTML.png?as=webp">
         </td>
     </tr>
 </table>
@@ -77,7 +77,7 @@ CSG使用比较基因组学的计算框架，该框架由负责nidovirals目分�
     </tr>
     <tr>
         <td>
-        <img %%%https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41564-020-0695-z/MediaObjects/41564_2020_695_Fig2_HTML.png?as=webp">
+        <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41564-020-0695-z/MediaObjects/41564_2020_695_Fig2_HTML.png?as=webp">
         </td>
     </tr>
 </table>
@@ -115,7 +115,7 @@ CSG使用比较基因组学的计算框架，该框架由负责nidovirals目分�
     </tr>
     <tr>
         <td>
-        <img %%%https://els-jbs-prod-cdn.literatumonline.com/cms/attachment/4b50f5b5-f2b2-45ae-a483-ff9f0f62e9d2/gr1.jpg">
+        <img src="https://els-jbs-prod-cdn.literatumonline.com/cms/attachment/4b50f5b5-f2b2-45ae-a483-ff9f0f62e9d2/gr1.jpg">
         </td>
     </tr>
 </table>
@@ -143,7 +143,7 @@ CSG使用比较基因组学的计算框架，该框架由负责nidovirals目分�
     </tr>
     <tr>
         <td>
-        <img %%%https://science.sciencemag.org/content/sci/early/2020/03/03/science.abb2762/F3.large.jpg?width=800&height=600&carousel=1">
+        <img src="https://science.sciencemag.org/content/sci/early/2020/03/03/science.abb2762/F3.large.jpg?width=800&height=600&carousel=1">
         </td>
     </tr>
 </table>
@@ -155,10 +155,10 @@ CSG使用比较基因组学的计算框架，该框架由负责nidovirals目分�
     </tr>
     <tr>
         <td>
-            <img %%%https://science.sciencemag.org/content/sci/early/2020/03/03/science.abb2762/F4.large.jpg?width=800&height=600&carousel=1">
+            <img src="https://science.sciencemag.org/content/sci/early/2020/03/03/science.abb2762/F4.large.jpg?width=800&height=600&carousel=1">
         </td>
         <td>
-        <img %%%https://science.sciencemag.org/content/sci/early/2020/03/03/science.abb2762/F5.large.jpg?width=800&height=600&carousel=1">
+        <img src="https://science.sciencemag.org/content/sci/early/2020/03/03/science.abb2762/F5.large.jpg?width=800&height=600&carousel=1">
         </td>
     </tr>
     <tr>
@@ -183,7 +183,7 @@ __Structure of Mᵖʳᵒ from COVID-19 virus and discovery of its inhibitors__ �
     </tr>
     <tr>
         <td>
-        <img %%%https://www.biorxiv.org/content/biorxiv/early/2020/03/10/2020.02.26.964882/F1.large.jpg?width=800&height=600&carousel=1">
+        <img src="https://www.biorxiv.org/content/biorxiv/early/2020/03/10/2020.02.26.964882/F1.large.jpg?width=800&height=600&carousel=1">
         </td>
     </tr>
 </table>
@@ -249,7 +249,7 @@ __Structure of Mᵖʳᵒ from COVID-19 virus and discovery of its inhibitors__ �
     </tr>
     <tr>
         <td>
-        <img %%%https://els-jbs-prod-cdn.literatumonline.com/cms/attachment/78abbf98-fd5e-4299-bd2e-a234f8406a8d/fx1.jpg">
+        <img src="https://els-jbs-prod-cdn.literatumonline.com/cms/attachment/78abbf98-fd5e-4299-bd2e-a234f8406a8d/fx1.jpg">
         </td>
     </tr>
 </table>
