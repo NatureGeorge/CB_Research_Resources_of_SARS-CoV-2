@@ -17,7 +17,16 @@ COVID-19是近期爆发的国际卫生危机，各路科研机构都有迅速开
 
 > 病毒爆发后，重要的是迅速确定爆发是由新病毒还是先前已知的病毒引起的，因为这有助于确定哪种方法和措施最适合检测病原体，控制其传播和传播。限制这种流行病的潜在后果。病毒新颖性的评估也对病毒命名产生影响，并且在不同的时间尺度上有助于定义病毒学和公共卫生领域的研究重点。
 
-[Virus discovery and naming: from disease-based to phenotype-free](https://media.springernature.com/relative-r300-703_m1050/springer-static/image/art%3A10.1038%2Fs41564-020-0695-z/MediaObjects/41564_2020_695_Figa_HTML.png?as=webp)
+<table>
+    <tr>
+        <td>Virus discovery and naming: from disease-based to phenotype-free</td>
+    </tr>
+    <tr>
+        <td>
+        <img %%%https://media.springernature.com/relative-r300-703_m1050/springer-static/image/art%3A10.1038%2Fs41564-020-0695-z/MediaObjects/41564_2020_695_Figa_HTML.png?as=webp">
+        </td>
+    </tr>
+</table>
 
 论文指出:
 
@@ -45,7 +54,16 @@ COVID-19是近期爆发的国际卫生危机，各路科研机构都有迅速开
 
 > 研究冠状病毒(一种感染脊椎动物的包膜正链RNA病毒家族)的研究人员曾多次面临这样的问题，即需要确定一种新出现的病毒是否属于一种现有的或新的(尚未确定的)物种，这种病毒会导致人类患上严重甚至危及生命的疾病。几年后，SARS和中东呼吸综合征(MERS)也出现了这种情况。每一次，病毒都是使用从基于序列的家族分类中获得的信息来分类的。
 
-[Taxonomy of selected coronaviruses](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41564-020-0695-z/MediaObjects/41564_2020_695_Fig1_HTML.png?as=webp)
+<table>
+    <tr>
+        <td>Taxonomy of selected coronaviruses</td>
+    </tr>
+    <tr>
+        <td>
+        <img %%%https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41564-020-0695-z/MediaObjects/41564_2020_695_Fig1_HTML.png?as=webp">
+        </td>
+    </tr>
+</table>
 
 > Shown is the full taxonomy of selected coronaviruses in comparison with the taxonomy of humans (the founders of virology and other eminent scientists represent individual human beings for the sake of this comparison), which is given only for categories (ranks) that are shared with the virus taxonomy. Note that these two taxonomies were independently developed using completely different criteria. Although no equivalence is implied, the species of coronaviruses is interpreted sensu stricto as accepted for the species of humans.
 
@@ -53,7 +71,16 @@ COVID-19是近期爆发的国际卫生危机，各路科研机构都有迅速开
 
 CSG使用比较基因组学的计算框架，该框架由负责nidovirals目分类和命名的几个ICTV研究组共享，并由ICTV nidovirals研究组(NSG)协调。研究组量化和划分冠状病毒基因组开放阅读框1a和1b(ORF1a/1b)中编码的最保守复制蛋白的变异，以确定划分不同等级病毒簇的成对父系距离(ppd)阈值。
 
-[Phylogeny of coronaviruses](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41564-020-0695-z/MediaObjects/41564_2020_695_Fig2_HTML.png?as=webp)
+<table>
+    <tr>
+        <td>Phylogeny of coronaviruses</td>
+    </tr>
+    <tr>
+        <td>
+        <img %%%https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41564-020-0695-z/MediaObjects/41564_2020_695_Fig2_HTML.png?as=webp">
+        </td>
+    </tr>
+</table>
 
 * a.用于冠状病毒科系统发育和DEmARC分析的蛋白质结构域组合的串联多序列比对
 * b.利用83个序列，采用最适合进化模型，用IQ-tree v.1.6.1重建SARS-CoV的最大似然树
@@ -82,7 +109,17 @@ CSG使用比较基因组学的计算框架，该框架由负责nidovirals目分�
 * N: Nucleocapsid protein 核衣壳蛋白
 * M: Membrane glycoprotein 膜糖蛋白
 
-[图1](https://els-jbs-prod-cdn.literatumonline.com/cms/attachment/4b50f5b5-f2b2-45ae-a483-ff9f0f62e9d2/gr1.jpg)
+<table>
+    <tr>
+        <td>figure1</td>
+    </tr>
+    <tr>
+        <td>
+        <img %%%https://els-jbs-prod-cdn.literatumonline.com/cms/attachment/4b50f5b5-f2b2-45ae-a483-ff9f0f62e9d2/gr1.jpg">
+        </td>
+    </tr>
+</table>
+
 
 ### About Spike protein
 
@@ -106,7 +143,7 @@ CSG使用比较基因组学的计算框架，该框架由负责nidovirals目分�
     </tr>
     <tr>
         <td>
-        <img src="https://science.sciencemag.org/content/sci/early/2020/03/03/science.abb2762/F3.large.jpg?width=800&height=600&carousel=1">
+        <img %%%https://science.sciencemag.org/content/sci/early/2020/03/03/science.abb2762/F3.large.jpg?width=800&height=600&carousel=1">
         </td>
     </tr>
 </table>
@@ -118,10 +155,10 @@ CSG使用比较基因组学的计算框架，该框架由负责nidovirals目分�
     </tr>
     <tr>
         <td>
-            <img src="https://science.sciencemag.org/content/sci/early/2020/03/03/science.abb2762/F4.large.jpg?width=800&height=600&carousel=1">
+            <img %%%https://science.sciencemag.org/content/sci/early/2020/03/03/science.abb2762/F4.large.jpg?width=800&height=600&carousel=1">
         </td>
         <td>
-        <img src="https://science.sciencemag.org/content/sci/early/2020/03/03/science.abb2762/F5.large.jpg?width=800&height=600&carousel=1">
+        <img %%%https://science.sciencemag.org/content/sci/early/2020/03/03/science.abb2762/F5.large.jpg?width=800&height=600&carousel=1">
         </td>
     </tr>
     <tr>
@@ -146,7 +183,7 @@ __Structure of Mᵖʳᵒ from COVID-19 virus and discovery of its inhibitors__ �
     </tr>
     <tr>
         <td>
-        <img src="https://www.biorxiv.org/content/biorxiv/early/2020/03/10/2020.02.26.964882/F1.large.jpg?width=800&height=600&carousel=1">
+        <img %%%https://www.biorxiv.org/content/biorxiv/early/2020/03/10/2020.02.26.964882/F1.large.jpg?width=800&height=600&carousel=1">
         </td>
     </tr>
 </table>
@@ -204,17 +241,163 @@ __Structure of Mᵖʳᵒ from COVID-19 virus and discovery of its inhibitors__ �
 
 ### About Spike protein
 
-> ..
+> SARS-CoV-2 Cell Entry Depends on ACE2 and TMPRSS2 and Is Blocked by a Clinically Proven Protease Inhibitor
+
+<table>
+    <tr>
+        <td>Graphical Abstract</td>
+    </tr>
+    <tr>
+        <td>
+        <img %%%https://els-jbs-prod-cdn.literatumonline.com/cms/attachment/78abbf98-fd5e-4299-bd2e-a234f8406a8d/fx1.jpg">
+        </td>
+    </tr>
+</table>
+
+该研究组的结论如下
+
+#### Evidence for Efficient Proteolytic Processing of SARS-2-S
+
+其深入了解SARS-2-S如何促进病毒进入靶细胞，以及如何阻断这一过程。结果表明，SARS-2-S在人细胞中的蛋白水解过程是有效的，与SARS-2-S而不是SARS-S的S1/S2裂解位点上的精氨酸残基相一致。而SARS-2-S的S2′裂解位点与SARS-S相似。
+
+#### SARS-2-S and SARS-S Mediate Entry into a Similar Spectrum of Cell Lines
+
+利用携带SARS-2-S的VSV假型来研究SARS-CoV-2的细胞进入，SARS-2-S和SARS-S都被牢固地结合到VSV颗粒中。所有细胞系很容易受到泛嗜性VSV（VSV-G）糖蛋白驱动的进入。SARS-2-S有助于进入与SARS-S相同的细胞系光谱(spectrum)，表明在选择进入受体方面有相似之处。
+
+#### SARS-CoV-2 Employs the SARS-CoV Receptor for Host Cell Entry
+
+真实的SARS-CoV-2感染的BHK-21细胞被转染来表达ACE2细胞，而不是高效的亲本BHK-21细胞，这表明SARS-2-S和SARS-S一样，使用ACE2进入细胞。
+
+#### The Cellular Serine Protease TMPRSS2 Primes SARS-2-S for Entry, and a Serine Protease Inhibitor Blocks SARS-CoV-2 Infection of Lung Cells
+
+接下来研究SARS-CoV-2进入对蛋白酶的依赖性。氯化铵处理强烈抑制SARS-2-S-和SARS-S-驱动进入TMPRSS2-293T细胞，表明CatB/L依赖性。临床证明的丝氨酸蛋白酶抑制剂甲磺酸卡莫斯塔（camostat mesylate）对tmprs2具有活性，部分阻断了SARS-2-S驱动的Caco-2和Vero-tmprs2细胞的进入。当甲磺酸卡莫斯塔和E-64d（CatB/L的抑制剂）被加入时，表明SARS-2-S可以同时使用CatB/L和tmprs2在这些细胞系中启动。相比之下，camostat mesylate不干扰SARS-2-S驱动的进入TMPRSS2-细胞系293T和Vero，后者被E-64d有效阻断，因此依赖于CatB/L。此外，TMPRSS2的定向表达使SARS-2-S驱动的进入免于E-64d的抑制，证实SARS-2-S可以利用TMPRSS2启动S蛋白。
+
+camostat mesylate治疗抑制了SARS-S-和SARS-2-S-但不抑制VSV-G-驱动的进入原代人肺细胞。总之，SARS-CoV-2可利用TMPRSS2启动S蛋白，TMPRSS2抑制剂 camostat mesylate阻断SARS-CoV-2对肺细胞的感染。
+
+#### Evidence that Antibodies Raised against SARS-CoV Will Cross-Neutralize SARS-CoV-2
+
+恢复期的SARS患者表现出针对病毒S蛋白的中和抗体反应，其调查了这些抗体是否阻止了SARS-2-S病毒的进入。从三名恢复期的SARS患者获得的四份血清抑制SARS-S，但不抑制VSV-G以浓度依赖的方式进入。此外，这些血清也减少了SARS-2-S引起的进入，尽管与SARS-S相比效率较低。同样，针对SARS-S的S1亚单位升高的兔血清能有效地减少SARS-S和SARS-2-S的进入，抑制SARS-S的进入更为有效。因此，在SARS-S感染或疫苗接种过程中产生的抗体反应可能对SARS-CoV-2感染提供一定程度的保护作用。
+
+### About E & N protein
+
+> Network-based drug repurposing for novel coronavirus 2019-nCoV/SARS-CoV-2
+
+> 与从头开始的药物发现相比，重新利用药物是现有药物的有效药物发现策略，可以缩短时间并降低成本。在这项研究中，我们提出了一种综合的抗病毒药物再利用方法，该方法实现了基于系统药理学的网络医学平台，量化了HCoV-宿主相互作用组与人类蛋白质-蛋白质相互作用网络中药物靶标之间的相互作用。
+
+> 具体来说，2019年nCoV/SARS-CoV-2的包膜蛋白(E)和核衣壳蛋白(N)是两个进化保守区，与SARS-CoV相比，序列同源性分别为96%和89.6%。利用药物靶点的网络邻近性分析和人类相互作用体中HCV与宿主的相互作用，我们确定了16种潜在的抗HCV可再利用药物（如melatonin, mercaptopurine以及 sirolimus）的优先顺序，这些药物通过对人类细胞系中药物基因特征和HCV诱导的转录组学数据的富集分析得到进一步验证。我们进一步确定了三种可能的药物组合（如sirolimus plus dactinomycin, mercaptopurine plus melatonin, and toremifene plus emodin）通过“互补暴露”(Complementary Exposure)模式捕获：药物的靶点都击中HCoV宿主子网络，但靶点是人类相互作用网络中的单独邻域。
+
+<table>
+    <tr>
+        <td>Overall workflow of this study</td>
+    </tr>
+    <tr>
+        <td>
+        <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41421-020-0153-3/MediaObjects/41421_2020_153_Fig1_HTML.png?as=webp">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            其基于网络的方法结合了一个基于系统药理学的网络医学平台，该平台量化了人类PPI网络中病毒-宿主相互作用体和药物靶点之间的相互作用。a) 从文献中收集人冠状病毒（HCoV）相关宿主蛋白，并将其聚合形成pan-HCoV蛋白子网络。b) 在人蛋白相互作用体模型下，计算药物靶点和HCoV相关蛋白之间的网络接近度，筛选HCoVs的候选可再利用药物。c,d) 利用基因集富集分析验证了网络预测的有效性。e) 使用“互补暴露”模式捕获的基于网络的方法，对药物组合的最佳候选药物进行了进一步的优先排序：药物的目标都击中HCoV宿主子网络，但目标是人类相互作用网络中的独立邻域。f) 基于网络的方法论的总体假设是：（1）与HCoVs功能相关的蛋白质定位在人类综合相互作用网络的相应子网络中；以及（ii）作为特定疾病药物靶点的蛋白质也可能是潜在抗病毒感染的合适药物靶点，因为人类相互作用体阐明了共同的蛋白质-蛋白质相互作用。
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td>具有文献来源的抗病毒证据的网络预测的前16种可重用药物</td>
+    </tr>
+    <tr>
+        <td>
+        <img src="https://media.springernature.com/lw542/springer-static/image/art%3A10.1038%2Fs41421-020-0153-3/MediaObjects/41421_2020_153_Tab1_HTML.png">
+        </td>
+    </tr>
+</table>
+
+文章中具体展示了几种精选的可重复利用药物，其文献报道的抗病毒证据如下:
+
+药物名称|机理|
+-|-
+选择性雌激素受体调节剂(SERMs)|SERMs干扰病毒进入后的步骤并影响融合的触发|
+血管紧张素受体阻断剂(ARBs)|Irbesartan (Z = –5.98)是一种典型的ARB,靶向SLC10A1,SLC10A1与C11orf74相互作用，C11orf74是与SARS-CoV的nsp-10相互作用的潜在转录阻遏物|
+免疫抑制剂或抗肿瘤药|Mercaptopurine是SARS-CoV和MERS-CoV的选择性抑制剂，其靶向蛋白样蛋白酶在病毒成熟和对抗干扰素刺激中起关键作用|
+抗炎药|褪黑激素的抗氧化作用，使其成为公认的候选药物，以减轻患者的抗病毒治疗的临床症状;褪黑激素间接靶向几种HCoV细胞靶，包括ACE2，BCL2L1，JUN和IKBKB|
+
+<table>
+    <tr>
+        <td>所有可能的预测药物组合</td>
+    </tr>
+    <tr>
+        <td>
+        <img src="./../docs/figs/Supplementary&#32;Table&#32;S6.&#32;Network-predicted&#32;drug&#32;combinations&#32;for&#32;all&#32;the&#32;drug&#32;pairs&#32;from&#32;the&#32;top&#32;16&#32;high-confidence&#32;repurposable&#32;drugs.png">
+        </td>
+    </tr>
+</table>
+
+文中例举了2019-nCoV/SARS-CoV-2的三种网络预测的候选药物组合:
+
+药物组合|机理|
+-|-
+Sirolimus plus Dactinomycin|Sirolimus和Dactinomycin可能会抑制HCoV感染细胞中的mTOR信号传导和RNA合成途径|
+Toremifene plus Emodin|体外实验证明Toremifene抑制MERS-CoV和SARA-CoV的生长;Emdoin抑制了SARS-CoV相关3a蛋白，并阻断了SARS-CoV峰值蛋白与ACE2之间的相互作用|
+Mercaptopurine plus Melatonin|Mercaptopurine和Melatonin联合应用可能通过协同靶向papain-like蛋白酶、ACE2、c-Jun信号和抗炎途径，为SARS-CoV-2提供一种潜在的联合治疗|
+
+### Analysis of therapeutic targets for SARS-CoV-2 and discovery of potential drugs by computational methods
+
+> DOI:<https://doi.org/10.1016/j.apsb.2020.02.008>
+
+<table>
+    <tr>
+        <td>Overall workflow of this study</td>
+    </tr>
+    <tr>
+        <td>
+        <img src="https://ars.els-cdn.com/content/image/1-s2.0-S2211383520302999-fx1.jpg">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            通过同源性建模，构建了20个结构，包括19个SARS-CoV-2靶点和1个人体靶点。锌药物数据库库，天然产物，78种抗病毒药物对这些靶点加人ACE2进行筛选。本研究为SARS-CoV-2的体内外研究提供了新的药物定位靶点。
+        </td>
+    </tr>
+</table>
+
+根据目标，潜在的抗冠状病毒疗法可分为两类，
+
+* 一类作用于人类免疫系统或人类细胞
+* 另一类作用于冠状病毒本身
+
+> 在人类免疫系统方面，先天免疫系统反应在控制冠状病毒的复制和感染中起着重要作用，干扰素有望增强免疫反应。阻断病毒复制所需的人细胞信号通路可能显示出一定的抗病毒作用。此外，病毒常常结合到细胞表面上的受体蛋白以进入人体细胞，例如，SARS病毒结合至ACE2受体和MERS结合到受体DPP4。作用于冠状病毒本身的疗法包括：通过作用于病毒的遗传物质来防止病毒RNA的合成；通过作用于病毒的关键酶来抑制病毒的复制；阻断病毒与人细胞受体的结合或抑制病毒的自我保护。通过作用于某些结构蛋白的组装过程。
+
+在与冠状病毒的斗争中，科学家提出了三种开发新药的策略。
+
+* 第一种策略是测试现有的广谱抗病毒药物
+  * 用于治疗冠状病毒性肺炎的干扰素，利巴韦林和亲环素抑制剂属于这一类
+  * 这些疗法的优势在于它们的代谢特征，使用的剂量，潜在的功效和副作用是明确的，因为它们已被批准用于治疗病毒感染
+  * 但是缺点是这些疗法太“广谱”，不能有针对性地杀死冠状病毒，因此不应低估它们的副作用
+* 第二种策略是使用现有的分子数据库来筛选可能对冠状病毒的治疗效果的分子
+  * 高通量筛选使该策略成为可能，并且可以通过该策略发现许多药物分子的新功能
+  * 例如，发现抗HIV感染药物洛匹那韦/利托那韦
+* 第三种策略直接基于不同冠状病毒的基因组信息和病理特征，从头开发新的靶向药物
+  * 从理论上讲，通过这些疗法发现的药物将表现出更好的抗冠状病毒作用
+  * 但是新药的研究过程可能要花费数年，甚至超过10年
+
+> 为了开发治疗SARS-CoV-2的药物，最快的方法是从市售药物中寻找潜在的分子。一旦确定了疗效，就可以通过绿色通道批准或由医院伦理委员会批准以对患者进行快速临床治疗。在本文中，对新型冠状病毒基因编码的蛋白质进行了生物信息学分析，并将SARS-CoV-2蛋白质与其他冠状病毒（如SARS-CoV和MERS-CoV）进行了比较。我们进行了同源性建模以构建所有可能的蛋白质结构，包括papain-like protease（PLpro），main protease(Mpro/3CLpro，也称为3-chymotrypsin-like protease)，RNA-dependent RNA polymerase（RdRp），helicase，Spike等。
+
+> 进一步，我们使用这些蛋白质和人类相关蛋白质[人类ACE2和II型跨膜丝氨酸蛋白酶（TMPRSS2）酶]作为筛选ZINC美国食品和药物管理局（FDA）批准的药物数据库（ZINC药物数据库，ZDD）的靶标，我们自己的中药和天然产物数据库（包括报告的中药常用抗病毒成分），以及通过虚拟配体筛选方法获得的常用抗病毒药物（78种化合物）的数据库。
+
+筛选出的药物以及更多内容参见该论文。
 
 ## Reference
 
 1. Aiping Wu, et al. Genome Composition and Divergence of the Novel Coronavirus (SARS-CoV-2) Originating in China, Cell Host & Microbe27, March 11, 2020
-2. Zhao WM, Song SH, Chen ML, et al. The 2019 novel coronavirus resource. Yi Chuan. 2020;42(2):212–221. doi:10.16288/j.yczz.20-030 [PMID: 32102777]
-3. <http://virological.org/t/response-to-on-the-origin-and-continuing-evolution-of-sars-cov-2/418/3>
-4. <https://www.cell.com/pb-assets/journals/research/current-biology/CURBIO_CURRENT-BIOLOGY-D-20-00299-compressed.pdf>
-5. The species Severe acute respiratory syndrome-related coronavirus: classifying SARS-CoV-2 and naming it SARS-CoV-2, <https://www.nature.com/articles/s41564-020-0695-z>
-6. <https://www.youtube.com/watch?v=j4Xiow30bGo>
-7. Qiang Zhou, et al. Structural basis for the recognition of the SARS-CoV-2 by full-length human ACE2, Science, 04 Mar 2020
-8. Daniel Wrapp, et al. Cryo-EM structure of the SARS-CoV-2 spike in the prefusion conformation, Science, 13 Mar 2020
-9. https://en.westlake.edu.cn/news_events/westlakenews/202002/t20200225_3069.shtml
-10. Structure of Mᵖʳᵒ from COVID-19 virus and discovery of its inhibitors. bioRxiv doi: 10.1101/2020.02.26.964882
+2. Zhao WM, Song SH, Chen ML, et al. The 2019 novel coronavirus resource. Yi Chuan. 2020;42(2):212–221. doi:10.16288/j.yczz.20-030
+3. Probable pangolin origin of SARS-CoV-2 associated with the COVID-19 outbreak [Link](https://www.cell.com/pb-assets/journals/research/current-biology/CURBIO_CURRENT-BIOLOGY-D-20-00299-compressed.pdf)
+4. Gorbalenya, A.E., Baker, S.C., Baric, R.S. et al. The species Severe acute respiratory syndrome-related coronavirus: classifying 2019-nCoV and naming it SARS-CoV-2. Nat Microbiol (2020). <https://doi.org/10.1038/s41564-020-0695-z>
+5. [Explainer: How the coronavirus (SARS-CoV-2) infects human cells](https://www.youtube.com/watch?v=j4Xiow30bGo)
+6. Qiang Zhou, et al. Structural basis for the recognition of the SARS-CoV-2 by full-length human ACE2, Science, 04 Mar 2020
+7. Daniel Wrapp, et al. Cryo-EM structure of the SARS-CoV-2 spike in the prefusion conformation, Science, 13 Mar 2020
+8. [Researchers at Westlake University Unveiled Structure of the RBD-ACE2-B0AT1 Complex](https://en.westlake.edu.cn/news_events/westlakenews/202002/t20200225_3069.shtml)
+9.  Structure of Mᵖʳᵒ from COVID-19 virus and discovery of its inhibitors. bioRxiv doi: 10.1101/2020.02.26.964882
+10. SARS-CoV-2 Cell Entry Depends on ACE2 and TMPRSS2 and Is Blocked by a Clinically Proven Protease Inhibitor. DOI:<https://doi.org/10.1016/j.cell.2020.02.052>
+11. Zhou, Y., Hou, Y., Shen, J. et al. Network-based drug repurposing for novel coronavirus 2019-nCoV/SARS-CoV-2. Cell Discov 6, 14 (2020). DOI:<https://doi.org/10.1038/s41421-020-0153-3>
+12. Canrong Wu, et al. Analysis of therapeutic targets for SARS-CoV-2 and discovery of potential drugs by computational methods. DOI:<https://doi.org/10.1016/j.apsb.2020.02.008>
