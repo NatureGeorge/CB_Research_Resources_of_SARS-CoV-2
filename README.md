@@ -36,6 +36,7 @@ All the data collected in this repository are provided by following databank/web
 ## Some other links
 
 * [专家谈“冠” | 浅谈计算生物学和生物信息学在防控新冠病毒肺炎中的研究进展和重要性](https://mp.weixin.qq.com/s/a_QCyKt223OFLwyfnym_8A)
+* [专家谈“冠” | 新冠病毒相关三维结构研究进展](https://mp.weixin.qq.com/s/XUwnEk97g3WJujTgsIPoJg)
 * Initial analysis of COVID-19 data using Galaxy, BioConda and public research infrastructures: <https://github.com/galaxyproject/SARS-CoV-2>
 * <https://www.who.int/emergencies/diseases/novel-coronavirus-2019/>
 * <https://www.gisaid.org/epiflu-applications/global-cases-covid-19/>
