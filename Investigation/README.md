@@ -401,3 +401,5 @@ Mercaptopurine plus Melatonin|Mercaptopurine和Melatonin联合应用可能通过
 10. SARS-CoV-2 Cell Entry Depends on ACE2 and TMPRSS2 and Is Blocked by a Clinically Proven Protease Inhibitor. DOI:<https://doi.org/10.1016/j.cell.2020.02.052>
 11. Zhou, Y., Hou, Y., Shen, J. et al. Network-based drug repurposing for novel coronavirus 2019-nCoV/SARS-CoV-2. Cell Discov 6, 14 (2020). DOI:<https://doi.org/10.1038/s41421-020-0153-3>
 12. Canrong Wu, et al. Analysis of therapeutic targets for SARS-CoV-2 and discovery of potential drugs by computational methods. DOI:<https://doi.org/10.1016/j.apsb.2020.02.008>
+13. Coronavirus puts drug repurposing on the fast track: <https://www.nature.com/articles/d41587-020-00003-1>
+14. Potential inhibitors for 2019-nCoV coronavirus M protease from clinically approved medicines. biorxiv doi: https://doi.org/10.1101/2020.01.29.924100
